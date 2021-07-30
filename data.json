@@ -699,6 +699,156 @@
       "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusA9512000",
+      "number": 1,
+      "carplate": "XE 2956",
+      "fleetnum": "M6L1",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusA9512000",
+      "number": 2,
+      "carplate": "XK 9051",
+      "fleetnum": "M6L1",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusA9512000",
+      "number": 3,
+      "carplate": "XK 9493",
+      "fleetnum": "M6L3",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusA9512000",
+      "number": 4,
+      "carplate": "XL 344",
+      "fleetnum": "M6L4",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusA9512000",
+      "number": 5,
+      "carplate": "XL 1865",
+      "fleetnum": "M6L5",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusA9512000",
+      "number": 6,
+      "carplate": "XL 2356",
+      "fleetnum": "M6L6",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusA9512000",
+      "number": 7,
+      "carplate": "XL 2412",
+      "fleetnum": "M6L7",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusA9512000",
+      "number": 8,
+      "carplate": "XL 2921",
+      "fleetnum": "M6L8",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusA9512000",
+      "number": 9,
+      "carplate": "XL 2989",
+      "fleetnum": "M6L9",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusA9512000",
+      "number": 10,
+      "carplate": "XL 3105",
+      "fleetnum": "M6L10",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusA9512000",
+      "number": 11,
+      "carplate": "XL 3303",
+      "fleetnum": "M6L11",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusA9512000",
+      "number": 12,
+      "carplate": "XL 3595",
+      "fleetnum": "M6L12",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusA9512000",
+      "number": 13,
+      "carplate": "XL 3729",
+      "fleetnum": "M6L13",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusA9512000",
+      "number": 14,
+      "carplate": "XL 3748",
+      "fleetnum": "M6L14",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusA9512000",
+      "number": 15,
+      "carplate": "XL 5025",
+      "fleetnum": "M6L15",
+      "depot": "S",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
     }
   ],
   "routedata": [
