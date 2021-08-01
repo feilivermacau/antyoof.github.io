@@ -1026,6 +1026,18 @@
     },
     {
       "number": 13,
+      "route": "273P",
+      "destZ": "甘泉工業區",
+      "destY": "豬怕南",
+      "maxPZ": "1",
+      "priceZ1": "9.4",
+      "halfpriceZ1": "4.7",
+      "maxPY": "1",
+      "priceY1": "9.4",
+      "halfpriceY1": "4.7"
+    },
+    {
+      "number": 14,
       "route": "273X",
       "destZ": "甘泉市中心",
       "destY": "豬怕邨",
@@ -1039,18 +1051,6 @@
       "halfpriceY1": "4.5",
       "priceY2": "4.1",
       "halfpriceY2": "2.1"
-    },
-    {
-      "number": 14,
-      "route": "273P",
-      "destZ": "甘泉工業區",
-      "destY": "豬怕南",
-      "maxPZ": "1",
-      "priceZ1": "9.4",
-      "halfpriceZ1": "4.7",
-      "maxPY": "1",
-      "priceY1": "9.4",
-      "halfpriceY1": "4.7"
     },
     {
       "number": 15,
