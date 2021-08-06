@@ -1127,6 +1127,18 @@
       "maxPY": "1",
       "priceY1": "18.0",
       "halfpriceY1": "9.0"
+    },
+    {
+      "number": 20,
+      "route": "恆蕭線",
+      "destZ": "禮雋圍村",
+      "destY": "恆馳",
+      "maxPZ": "1",
+      "priceZ1": "5.2",
+      "halfpriceZ1": "5.2",
+      "maxPY": "1",
+      "priceY1": "5.2",
+      "halfpriceY1": "5.2"
     }
   ]  
 }
