@@ -1128,5 +1128,34 @@
       "priceY1": "18.0",
       "halfpriceY1": "9.0"
     }
-  ]  
+  ],
+  "paidata": [
+    {
+      "number": 0,
+      "route": "F1",
+      "front": 1,
+      "frontid1": "rbxassetid://",
+      "controllerid1": "rbxassetid://",
+      "side": 1,
+      "sideid1": "rbxassetid://"
+    },
+    {
+      "number": 1,
+      "route": "23Y",
+      "front": 1,
+      "frontid1": "rbxassetid://",
+      "controllerid1": "rbxassetid://",
+      "side": 1,
+      "sideid1": "rbxassetid://"
+    },
+    {
+      "number": 2,
+      "route": "23Z",
+      "front": 1,
+      "frontid1": "rbxassetid://",
+      "controllerid1": "rbxassetid://",
+      "side": 1,
+      "sideid1": "rbxassetid://"
+    }
+  ]
 }
