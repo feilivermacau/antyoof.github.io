@@ -1149,15 +1149,6 @@
       "side": 2,
       "sideid1": "rbxassetid://7560802096",
       "sideid2": "rbxassetid://7560803101"
-    },
-    {
-      "number": 2,
-      "route": "23Z",
-      "front": 1,
-      "frontid1": "rbxassetid://",
-      "controllerid1": "rbxassetid://",
-      "side": 1,
-      "sideid1": "rbxassetid://"
     }
   ]
 }
