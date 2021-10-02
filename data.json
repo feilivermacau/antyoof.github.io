@@ -851,7 +851,7 @@
       "backad": "rbxassetid://"
     }
   ],
-  "routedata": [
+  "Groutedata": [
     {
       "number": 0,
       "route": "GEO",
@@ -1129,7 +1129,7 @@
       "halfpriceY1": "9.0"
     }
   ],
-  "paidata": [
+  "Gpaidata": [
     {
       "number": 1,
       "route": "OO",
