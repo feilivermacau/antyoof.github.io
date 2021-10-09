@@ -1334,7 +1334,7 @@
       "route": "23Y",
       "front": 1,
       "frontid1": "rbxassetid://7560800414",
-      "controllerid1": "rbxassetid://7560800414",
+      "controllerid1": "rbxassetid://7625536309",
       "side": 2,
       "sideid1": "rbxassetid://7560802096",
       "sideid2": "rbxassetid://7560803101"
@@ -1344,7 +1344,7 @@
       "route": "23Z",
       "front": 1,
       "frontid1": "rbxassetid://7560794812",
-      "controllerid1": "rbxassetid://7560794812",
+      "controllerid1": "rbxassetid://7625555938",
       "side": 1,
       "sideid1": "rbxassetid://7560797076"
     },
@@ -1353,7 +1353,7 @@
       "route": "24Y",
       "front": 1,
       "frontid1": "rbxassetid://7560850011",
-      "controllerid1": "rbxassetid://7560850011",
+      "controllerid1": "rbxassetid://7625599091",
       "side": 2,
       "sideid1": "rbxassetid://7560852303",
       "sideid2": "rbxassetid://7560854307"
@@ -1363,7 +1363,7 @@
       "route": "24Z",
       "front": 1,
       "frontid1": "rbxassetid://7567216274",
-      "controllerid1": "rbxassetid://7567216274",
+      "controllerid1": "rbxassetid://7625592876",
       "side": 1,
       "sideid1": "rbxassetid://7560846754"
     },
@@ -1373,8 +1373,8 @@
       "front": 2,
       "frontid1": "rbxassetid://7567105045",
       "frontid2": "rbxassetid://7567115191",
-      "controllerid1": "rbxassetid://7567105045",
-      "controllerid2": "rbxassetid://7567115191",
+      "controllerid1": "rbxassetid://7633801203",
+      "controllerid2": "rbxassetid://7633808038",
       "side": 2,
       "sideid1": "rbxassetid://7567107066",
       "sideid2": "rbxassetid://7567108411"
@@ -1402,11 +1402,11 @@
       "number": 10,
       "route": "TGB",
       "front": 1,
-      "frontid1": "rbxassetid://7613220354",
+      "frontid1": "rbxassetid://7625453541",
       "controllerid1": "rbxassetid://7633822363",
       "side": 2,
-      "sideid1": "rbxassetid://7613228636",
-      "sideid2": "rbxassetid://7613232628"
+      "sideid1": "rbxassetid://7625459703",
+      "sideid2": "rbxassetid://7625461695"
     },
     {
       "number": 11,
@@ -1595,8 +1595,8 @@
       "number": 29,
       "route": "HIRE",
       "front": 1,
-      "frontid1": "rbxassetid://7613208197",
-      "controllerid1": "",
+      "frontid1": "rbxassetid://7685328928",
+      "controllerid1": "rbxassetid://7685337375",
       "side": 1,
       "sideid1": "rbxassetid://7613213555"
     },
