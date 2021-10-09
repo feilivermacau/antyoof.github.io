@@ -983,7 +983,7 @@
     {
       "busname": "GeoBusStreetdeck10650",
       "number": 14,
-      "carplate": "XP 783",
+      "carplate": "XR 783",
       "fleetnum": "M6L15",
       "depot": "G",
       "leftad": "rbxassetid://",
@@ -993,7 +993,17 @@
     {
       "busname": "GeoBusStreetdeck10650",
       "number": 15,
-      "carplate": "XP 1101",
+      "carplate": "XR 1101",
+      "fleetnum": "M6L15",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650Hydroliner",
+      "number": 1,
+      "carplate": "XR 3303",
       "fleetnum": "M6L15",
       "depot": "G",
       "leftad": "rbxassetid://",
