@@ -850,7 +850,157 @@
       "leftad": "rbxassetid://7179607848",
       "rightad": "rbxassetid://7179605221",
       "backad": "rbxassetid://"
-    }
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 1,
+      "carplate": "XP 5015",
+      "fleetnum": "M6L15",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 2,
+      "carplate": "XP 5683",
+      "fleetnum": "M6L15",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 3,
+      "carplate": "XP 5698",
+      "fleetnum": "M6L15",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 4,
+      "carplate": "XP 5703",
+      "fleetnum": "M6L15",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 5,
+      "carplate": "XP 6103",
+      "fleetnum": "M6L15",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 6,
+      "carplate": "XP 6305",
+      "fleetnum": "M6L15",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 7,
+      "carplate": "XP 6593",
+      "fleetnum": "M6L15",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 8,
+      "carplate": "XP 6777",
+      "fleetnum": "M6L15",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 9,
+      "carplate": "XP 6721",
+      "fleetnum": "M6L15",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 10,
+      "carplate": "XP 8992",
+      "fleetnum": "M6L15",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 11,
+      "carplate": "XP 8993",
+      "fleetnum": "M6L15",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 12,
+      "carplate": "XP 9053",
+      "fleetnum": "M6L15",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 13,
+      "carplate": "XR 291",
+      "fleetnum": "M6L15",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 14,
+      "carplate": "XP 783",
+      "fleetnum": "M6L15",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650",
+      "number": 15,
+      "carplate": "XP 1101",
+      "fleetnum": "M6L15",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
   ],
   "Groutedata": [
     {
