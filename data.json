@@ -852,19 +852,9 @@
     },
     {
       "busname": "GeoBusStreetdeck10650",
-      "number": 1,
+      "number": 10,
       "carplate": "XP 5015",
       "fleetnum": "W6S1",
-      "depot": "G",
-      "leftad": "rbxassetid://",
-      "rightad": "rbxassetid://",
-      "backad": "rbxassetid://"
-    },
-    {
-      "busname": "GeoBusStreetdeck10650",
-      "number": 2,
-      "carplate": "XP 5683",
-      "fleetnum": "W6S2",
       "depot": "G",
       "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
