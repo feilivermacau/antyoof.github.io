@@ -880,6 +880,16 @@
       "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
+    },
+    {
+      "busname": "GeoBusStreetdeck10650Hydroliner",
+      "number": 2,
+      "carplate": "XR 5316",
+      "fleetnum": "WES2",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
     }
   ],
   "Groutedata": [
