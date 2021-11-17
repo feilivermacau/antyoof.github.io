@@ -119,4 +119,40 @@
     "TimePosition": 0,
     "Notification": 0
   },
+  {
+    "route": "23",
+    "direction": 0,
+    "NextStop": 10,
+    "Chi": "豬怕公園",
+    "ChiTime": 4,
+    "Eng": "GEO ESTATE",
+    "EngTime": 3,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23",
+    "direction": 0,
+    "NextStop": 11,
+    "Chi": "豬怕邨",
+    "ChiTime": 4,
+    "Eng": "GEO ESTATE",
+    "EngTime": 3,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23",
+    "direction": 0,
+    "NextStop": 12,
+    "Chi": "多謝選乘豬怕巴士",
+    "ChiTime": 5,
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngTime": 4,
+    "SoundId": "rbxassetid://7010707574",
+    "TimePosition": 0,
+    "Notification": 0
+  },
 ]
