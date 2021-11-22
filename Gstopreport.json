@@ -950,7 +950,7 @@
   {
     "route": "73",
     "direction": 0,
-    "NextStop": 32,
+    "NextStop": 33,
     "Chi": "豬脊",
     "ChiTime": 3,
     "Eng": "PIG BACK'S",
@@ -958,5 +958,41 @@
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
-  }
+  },
+  {
+    "route": "73",
+    "direction": 0,
+    "NextStop": 34,
+    "Chi": "沙葉公路1號",
+    "ChiTime": 5,
+    "Eng": "1 SHA YIP HIGHWAY",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "73",
+    "direction": 0,
+    "NextStop": 35,
+    "Chi": "沙葉公路1號",
+    "ChiTime": 5,
+    "Eng": "1 SHA YIP HIGHWAY",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "73",
+    "direction": 0,
+    "NextStop": 36,
+    "Chi": "沙善公園",
+    "ChiTime": 4,
+    "Eng": "SHA SIN PARK",
+    "EngTime": 3,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
 ]
