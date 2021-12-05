@@ -1393,12 +1393,15 @@
     {
       "number": 9,
       "route": "NIS",
-      "front": 1,
+      "front": 2,
       "frontid1": "rbxassetid://7613220354",
+      "frontid2": "rbxassetid://8180351762",
       "controllerid1": "rbxassetid://7680071861",
-      "side": 2,
+      "controllerid2": "rbxassetid://8180359405",
+      "side": 3,
       "sideid1": "rbxassetid://7926107226",
-      "sideid2": "rbxassetid://7613232628"
+      "sideid2": "rbxassetid://7613232628",
+      "sideid3": "rbxassetid://8180347703"
     },
     {
       "number": 10,
