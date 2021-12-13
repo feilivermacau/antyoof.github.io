@@ -2722,5 +2722,77 @@
     "SoundId": "rbxassetid://7010707574",
     "TimePosition": 0,
     "Notification": 0
+  },
+  {
+    "route": "41A",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "甘泉市中心",
+    "ChiTime": 4,
+    "Eng": "OASIS\nTOWN CENTRE",
+    "EngTime": 3,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "41A",
+    "direction": 0,
+    "NextStop": 2,
+    "Chi": "甘泉東道",
+    "ChiTime": 4,
+    "Eng": "KAM CHUEN\nTUNG ROAD",
+    "EngTime": 3,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "41A",
+    "direction": 0,
+    "NextStop": 3,
+    "Chi": "甘葦中心",
+    "ChiTime": 4,
+    "Eng": "KAM WAI CENTRE",
+    "EngTime": 3,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "41A",
+    "direction": 0,
+    "NextStop": 4,
+    "Chi": "業德道",
+    "ChiTime": 4,
+    "Eng": "YIP TAK ROAD",
+    "EngTime": 3,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "41A",
+    "direction": 0,
+    "NextStop": 5,
+    "Chi": "業德道",
+    "ChiTime": 4,
+    "Eng": "YIP TAK ROAD",
+    "EngTime": 3,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "41A",
+    "direction": 0,
+    "NextStop": 6,
+    "Chi": "業德道",
+    "ChiTime": 4,
+    "Eng": "YIP TAK ROAD",
+    "EngTime": 3,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
   }
 ]
