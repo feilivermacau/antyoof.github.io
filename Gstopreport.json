@@ -2319,18 +2319,6 @@
     "route": "24D",
     "direction": 0,
     "NextStop": 8,
-    "Chi": "沙嶺中心",
-    "ChiTime": 4,
-    "Eng": "SHA LENG CENTRE",
-    "EngTime": 3,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-  {
-    "route": "24D",
-    "direction": 0,
-    "NextStop": 9,
     "Chi": "沙嶺警署",
     "ChiTime": 4,
     "Eng": "SHA LENG\nPOPO STATION",
@@ -2342,7 +2330,7 @@
   {
     "route": "24D",
     "direction": 0,
-    "NextStop": 10,
+    "NextStop": 9,
     "Chi": "沙善邨",
     "ChiTime": 4,
     "Eng": "SHA SIN ESTATE",
@@ -2354,7 +2342,7 @@
   {
     "route": "24D",
     "direction": 0,
-    "NextStop": 11,
+    "NextStop": 10,
     "Chi": "多謝選乘豬怕巴士",
     "ChiTime": 5,
     "Eng": "THANK YOU\nFOR TRAVELLING",
