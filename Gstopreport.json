@@ -5053,7 +5053,7 @@
   },
   {
     "route": "N23",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 6,
     "Chi": "豬怕雅蘭中心",
     "ChiTime": 6,
