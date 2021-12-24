@@ -274,29 +274,5 @@
     "halfpriceY1": "5.8",
     "priceY2": "5.3",
     "halfpriceY2": "2.7"
-  },
-  {
-    "number": 20,
-    "route": "109",
-    "destZ": "水時圍和特苑",
-    "destY": "綠水村",
-    "maxPZ": "1",
-    "priceZ1": "18.0",
-    "halfpriceZ1": "9.0",
-    "maxPY": "1",
-    "priceY1": "18.0",
-    "halfpriceY1": "9.0"
-  },
-  {
-    "number": 21,
-    "route": "590",
-    "destZ": "沙角東鐵路站",
-    "destY": "貨櫃碼頭",
-    "maxPZ": "1",
-    "priceZ1": "10.7",
-    "halfpriceZ1": "5.4",
-    "maxPY": "1",
-    "priceY1": "10.7",
-    "halfpriceY1": "5.4"
   }
 ]
