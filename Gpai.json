@@ -98,6 +98,15 @@
     "sideid2": "rbxassetid://7613232628"
   },
   {
+    "number": -100,
+    "route": "XMAS",
+    "front": 1,
+    "frontid1": "rbxassetid://8180351762",
+    "controllerid1": "rbxassetid://8180359405",
+    "side": 1,
+    "sideid1": "rbxassetid://8180347703"
+  },
+  {
     "number": 10,
     "route": "TGB",
     "front": 1,
@@ -324,15 +333,6 @@
     "controllerid1": "rbxassetid://7633818804",
     "side": 1,
     "sideid1": "rbxassetid://7926464412"
-  },
-  {
-    "number": -100,
-    "route": "XMAS",
-    "front": 1,
-    "frontid1": "rbxassetid://8180351762",
-    "controllerid1": "rbxassetid://8180359405",
-    "side": 1,
-    "sideid1": "rbxassetid://8180347703"
   },
   {
     "number": 33,
