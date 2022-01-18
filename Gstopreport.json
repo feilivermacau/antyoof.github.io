@@ -580,9 +580,9 @@
     "direction": 0,
     "NextStop": 2,
     "Chi": "歡迎乘搭豬怕巴士",
-    "ChiTime": 10,
+    "ChiTime": 10.5,
     "Eng": "WELCOME ONBOARD",
-    "EngTime": 8.5,
+    "EngTime": 8,
     "SoundId": "rbxassetid://8569079266",
     "TimePosition": 0,
     "Notification": 0
