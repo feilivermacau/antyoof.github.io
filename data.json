@@ -857,7 +857,7 @@
       "fleetnum": "W6S1",
       "depot": "G",
       "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
+      "rightad": "rbxassetid://8653559811",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -867,7 +867,7 @@
       "fleetnum": "W6S2",
       "depot": "G",
       "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
+      "rightad": "rbxassetid://8653559811",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -877,7 +877,7 @@
       "fleetnum": "W6S3",
       "depot": "G",
       "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
+      "rightad": "rbxassetid://8653559811",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -887,7 +887,7 @@
       "fleetnum": "W6S4",
       "depot": "G",
       "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
+      "rightad": "rbxassetid://8653559811",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -897,7 +897,7 @@
       "fleetnum": "W6S5",
       "depot": "G",
       "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
+      "rightad": "rbxassetid://8653559811",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -907,7 +907,7 @@
       "fleetnum": "W6S6",
       "depot": "G",
       "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
+      "rightad": "rbxassetid://8653559811",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -917,7 +917,7 @@
       "fleetnum": "W6S7",
       "depot": "G",
       "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
+      "rightad": "rbxassetid://8653559811",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -927,7 +927,7 @@
       "fleetnum": "W6S8",
       "depot": "G",
       "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
+      "rightad": "rbxassetid://8653559811",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -937,7 +937,7 @@
       "fleetnum": "W6S9",
       "depot": "G",
       "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
+      "rightad": "rbxassetid://8653559811",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -947,7 +947,7 @@
       "fleetnum": "W6S10",
       "depot": "G",
       "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
+      "rightad": "rbxassetid://8653559811",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -957,7 +957,7 @@
       "fleetnum": "W6S11",
       "depot": "G",
       "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
+      "rightad": "rbxassetid://8653559811",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -967,7 +967,7 @@
       "fleetnum": "W6S12",
       "depot": "G",
       "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
+      "rightad": "rbxassetid://8653559811",
       "backad": "rbxassetid://8373801085"
     },
     {
@@ -977,28 +977,28 @@
       "fleetnum": "W6S13",
       "depot": "G",
       "leftad": "rbxassetid://8141719689",
-      "rightad": "rbxassetid://",
+      "rightad": "rbxassetid://8653559811",
       "backad": "rbxassetid://8373801085"
     },
     {
-      "busname": "GeoBusStreetdeck10650",
-      "number": 14,
+      "busname": "GeoBusStreetdeck10650Opentop",
+      "number": 1,
       "carplate": "XR 783",
-      "fleetnum": "W6S14",
+      "fleetnum": "W6O1",
       "depot": "G",
-      "leftad": "rbxassetid://8141719689",
+      "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
-      "backad": "rbxassetid://8373801085"
+      "backad": "rbxassetid://"
     },
     {
-      "busname": "GeoBusStreetdeck10650",
-      "number": 15,
+      "busname": "GeoBusStreetdeck10650Opentop",
+      "number": 2,
       "carplate": "XR 1101",
-      "fleetnum": "W6S15",
+      "fleetnum": "W6O2",
       "depot": "G",
-      "leftad": "rbxassetid://8141719689",
+      "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
-      "backad": "rbxassetid://8373801085"
+      "backad": "rbxassetid://"
     },
     {
       "busname": "GeoBusStreetdeck10650Hydroliner",
