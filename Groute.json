@@ -134,7 +134,7 @@
   {
     "number": 10,
     "route": "41R",
-    "destZ": "蔡村",
+    "destZ": "甘怡站",
     "destY": "甘怡站",
     "maxPZ": "1",
     "priceZ1": "7.0",
@@ -210,7 +210,7 @@
   {
     "number": 16,
     "route": "273P",
-    "destZ": "甘泉工業區",
+    "destZ": "豬怕(南)",
     "destY": "豬怕(南)",
     "maxPZ": "1",
     "priceZ1": "7.8",
