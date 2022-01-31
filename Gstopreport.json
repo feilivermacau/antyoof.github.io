@@ -3115,7 +3115,7 @@
     "ChiTime": 3,
     "Eng": "CHOI TSUEN",
     "EngTime": 3,
-    "SoundId": "rbxassetid://8569062573",
+    "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
   },
@@ -3163,7 +3163,7 @@
     "ChiTime": 3,
     "Eng": "MA LENG STATION",
     "EngTime": 3,
-    "SoundId": "rbxassetid://8569062573",
+    "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
   },
@@ -3559,7 +3559,7 @@
     "ChiTime": 3,
     "Eng": "MA LENG STATION",
     "EngTime": 3,
-    "SoundId": "rbxassetid://8569062573",
+    "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
   },
